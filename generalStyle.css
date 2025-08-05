@@ -61,7 +61,7 @@
     .heroSection__contents__primary{
         color: white;
         font-size: 3rem;
-        text-shadow: 4px 4px 4px(0,0,0,0.9);
+        text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
         margin: 0;
         font-weight: 800;
 
@@ -69,7 +69,8 @@
 
     .heroSection__contents__secondary{
         color: white;
-        text-shadow: 4px 4px 4px(0,0,0,0.6);
+
+        text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
         font-size: 1rem;
         margin: 0;
         font-weight: 500;
